@@ -7,6 +7,7 @@
 ## Requirements
 ```bash
   $ yum install httpd -y
+  $ systemctl enable httpd
   $ yum remove apt
 ```
 la la la la
