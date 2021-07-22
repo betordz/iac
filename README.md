@@ -40,6 +40,11 @@ test
 
 ## FAQs
 
+## Tabla de Prueba
+|Descripcion|Cantidad|
+|----------------|------------|
+|Prueba1|50|
+|Prueba 2|20|
 
 
 
