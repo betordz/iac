@@ -39,7 +39,7 @@ test
 
 2. Llama
 
-3. Favorites movies
+3. Favorite movies
     1. Dog pund
     2. Billy Elliot
 
